@@ -1,0 +1,209 @@
+@font-face {
+	font-family: "Icon";
+	src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"),
+	url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
+}
+
+body {
+	background-color: #ffffff;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+	margin: 0px;
+	width: 600px;
+	margin: 0 auto;
+}
+#header {
+	background-color: #53545e;
+	height: 100px;
+}
+#main {
+}
+#sidebar {
+	background-color: #f1f1f1;
+	height: 75px;
+}
+#footer {
+	background-color: #53545e;
+	color: #efe5d0;
+	max-height: 196px;
+}
+.image {
+	float: left;
+	padding: 33px 0 0 30px;
+}
+.gusto {
+	font-size: 30px;
+	text-transform: uppercase;
+	padding: 41px 0 0px 90px;
+	color: #ffffff;
+}
+.letter {
+	color: #a6a7b0;
+}
+.view {
+	font-size: 12px;
+	color: #ffffff;
+	text-transform: capitalize;
+	padding: 55px 0 0 163px;
+}
+.image1 {
+	padding: 30px 30px 0px 30px;
+}
+h1 {
+	font-size: 18px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #53545e;
+	font-weight: bold;
+	padding: 15px 0 0 30px;
+}
+p {
+	font-size: 14px;
+	line-height: 20px;
+	color: #bfc0c3;
+	padding: 8px 53px 0 30px;
+}
+.button {
+	display: inline-block;
+	position: relative;
+	top: 15px;
+	left: 30px;
+	font-size: 14px;
+	line-height: 24px;
+	font-family: "PTSans Bold", "Open Sans", serif;
+	text-align: center;
+	text-transform: uppercase;
+	color: #ffffff;
+	background-color: #53545e;
+	text-decoration: none;
+	border: none;
+	min-height: 36px;
+	min-width: 79px;
+}
+.section1 {
+	border-bottom: 1px solid #eaeaea;
+	height: 471px;
+}
+h2, h3 {
+	font-size: 18px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #53545e;
+	font-weight: bold;
+	padding-top: 15px;
+}
+.pad p {
+	font-size: 14px;
+	line-height: 20px;
+	color: #bfc0c3;
+	padding-top: 13px ;
+	margin-left: -30px;
+}
+.pad button {
+	margin-left: -30px;
+}
+.column {
+	padding: 30px;
+	display: inline-block;
+	vertical-align: top;
+	width: 222px;
+}
+.column-1 {
+	height: 322px;
+}
+.column-2 {
+	height: 322px;
+}
+.section2 {
+	border-bottom: 1px solid #eaeaea;
+	height: 338px;
+}
+.section3 {
+	border-bottom: 1px solid #eaeaea;
+}
+h4, h5 {
+	font-size: 18px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #53545e;
+	font-weight: bold;
+	padding: 20px 0 0 30px;
+}
+.column-6 {
+	font-size: 18px;
+	line-height: 24px;
+	color: #b4b4b4;
+	text-transform: uppercase;
+	background-color: #dedede;
+	height: 104px;
+	width: 160px;
+	display: inline-block;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 28px;
+	margin-bottom: 28px;
+	padding-top: 56px;
+}
+.section4 {
+	border-bottom: 1px solid #eaeaea;
+	height: 201px;
+}
+.section5 {
+	height: 201px;
+}
+.had p {
+	font-size: 14px;
+	line-height: 20px;
+	color: #bfc0c3;
+	padding-top: 13px;
+}
+.share {
+	margin: 0 auto;
+	padding-top: 21px;
+	padding-left: 30px;
+}
+.share b {
+	margin-right: 40px;
+	color: #53545e;
+	text-transform: uppercase;
+	font-size: 18px;
+	line-height: 18px;
+	letter-spacing: -0.045em;
+}
+
+.social {
+	display: inline-block;
+	width: 34px;
+	height: 34px;
+	margin-right: 8px;
+	background: #bdc3c7 url("/assets/course14/social.png") no-repeat;
+	vertical-align: middle;
+}
+.social:nth-child(9) {
+	margin-right: 0px;
+}
+
+.foot {
+	width: 345px;
+	border-bottom: 1px solid #a6a7b0;
+	padding: 23px 0 30px 30px;
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+	display: inline-block;
+}
+
+.link {
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+	display: inline-block;
+}
+
+.cr {
+	padding-left: 30px;
+	padding-top: 12px;
+	font-size: 12px;
+	line-height: 24px;
+	height: 49px;
+}
